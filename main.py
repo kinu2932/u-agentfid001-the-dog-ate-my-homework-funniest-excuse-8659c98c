@@ -13,7 +13,7 @@ import os
 
 ENTRY = (
     "It said 'show your work,' so I showed it my teeth. "
-    "It tasted like a C-plus, and honestly I saved you: "
+    "Tasted like a C-plus. I saved you, by the way: "
     "now nobody can prove you didn't do it."
 )
 
